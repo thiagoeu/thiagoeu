@@ -11,7 +11,7 @@
 
 ### 🚀 Sobre Mim
 
-Olá! Sou acadêmico do 9º período de **Engenharia da Computação** no **IFPB**, com foco em engenharia de software moderna, arquiteturas escaláveis e sistemas baseados em inteligência artificial.
+Olá! Sou **Engenhario da Computação** formado pelo no **IFPB**, com foco em engenharia de software moderna, arquiteturas escaláveis e sistemas baseados em inteligência artificial.
 
 - 🏛️ **Atuação Profissional:** Desenvolvedor de Software no projeto **InovaAF**, uma parceria estratégica entre o **IFPB e o Ministério da Saúde**, atuando diretamente na modernização e digitalização da Assistência Farmacêutica do **SUS**.
 - 🛠️ **Foco Atual:** Arquitetura de microsserviços com **NestJS**, interfaces dinâmicas com **React / Next.js / TypeScript**, APIs concorrentes em **Go** e sistemas multi-agentes com **LangGraph & LLMs**.
