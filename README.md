@@ -1,18 +1,72 @@
-# 💫 About Me:
-Olá! Sou o Thiago, acadêmico de Engenharia da Computação (9/10) com foco no desenvolvimento de sistemas web robustos e escaláveis.<br><br>Atualmente, sou desenvolvedor no projeto InovaAF, uma parceria estratégica entre o IFPB e o Ministério da Saúde. Minha missão é contribuir para a modernização da Assistência Farmacêutica do SUS, utilizando tecnologias modernas para impactar diretamente a saúde pública no Brasil.<br><br>No que estou focado hoje:<br><br>💻 Construção de APIs modernas e seguras com NestJS.<br><br>⚛️ Criação de interfaces dinâmicas e responsivas com React.<br><br>🏛️ Arquitetura de sistemas web integrados.<br><br>Curiosidade técnica: Tenho uma base sólida em Sistemas Embarcados (ESP32, STM32), o que me deu uma visão profunda de hardware e performance, embora meu foco atual seja o ecossistema Web Full Stack.
+# 👨‍💻 Thiago Araújo
+### Software Engineer | Full Stack & Microservices | Cloud & AI Systems
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thiagoeu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thiago-araújo-946183227) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:araujo.thiago1051@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thiagoeu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=thiagoeu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoeu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="left">
+  <a href="https://linkedin.com/in/thiago-araújo-946183227"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:araujo.thiago1051@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/thiagoeu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=thiagoeu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Sobre Mim
+
+Olá! Sou acadêmico do 9º período de **Engenharia da Computação** no **IFPB**, com foco em engenharia de software moderna, arquiteturas escaláveis e sistemas baseados em inteligência artificial.
+
+- 🏛️ **Atuação Profissional:** Desenvolvedor de Software no projeto **InovaAF**, uma parceria estratégica entre o **IFPB e o Ministério da Saúde**, atuando diretamente na modernização e digitalização da Assistência Farmacêutica do **SUS**.
+- 🛠️ **Foco Atual:** Arquitetura de microsserviços com **NestJS**, interfaces dinâmicas com **React / Next.js / TypeScript**, APIs concorrentes em **Go** e sistemas multi-agentes com **LangGraph & LLMs**.
+- 🔬 **Diferencial de Engenharia:** Base sólida em baixo nível e hardware (ESP32, C/C++, Sistemas Embarcados e IoT), trazendo uma visão profunda de performance, concorrência e uso eficiente de recursos.
+
+---
+
+### 🌟 Projetos em Destaque
+
+| Projeto | Descrição | Stack Principal |
+| :--- | :--- | :--- |
+| [**GitMatch (CV Nitro)**](https://github.com/thiagoeu/cv_nitro) | Otimizador inteligente de currículos com orquestração multi-agente (LangGraph), extração de portfólio GitHub, diagnóstico ATS determinístico e persistência em nuvem. | `Python`, `LangGraph`, `Gemini`, `Streamlit`, `Supabase` |
+| [**CommerceHub (MicroServicesSales)**](https://github.com/thiagoeu/MicroServicesSales) | Arquitetura corporativa de microsserviços escalável com monorepo Turborepo, pnpm workspaces, mensageria e conteinerização Docker. | `TypeScript`, `NestJS`, `Turborepo`, `Docker`, `pnpm` |
+| [**Node AI Lab**](https://github.com/thiagoeu/node-ai) | Laboratório prático de engenharia de LLMs e agentes autônomos por baixo dos panos com inferência local via Ollama em TypeScript. | `TypeScript`, `Node.js`, `LLM`, `Ollama`, `GenAI` |
+| [**RepoContext**](https://github.com/thiagoeu/repo-context) | Ferramenta de engenharia para desenvolvedores (DevTools) em Next.js para empacotamento e otimização de contexto de código para modelos de linguagem. | `Next.js`, `React 19`, `TypeScript`, `TailwindCSS` |
+| [**OpenJob API**](https://github.com/thiagoeu/OPENJOB-API-GOLANG) | API RESTful concorrente e de alta performance em Go (Gin & GORM) para cadastro e gerenciamento de vagas de emprego. | `Go`, `Gin`, `GORM`, `SQLite`, `REST API` |
+| [**SoundTracker**](https://github.com/thiagoeu/react-native-decibelimetro) | Aplicativo mobile para medição e decibelímetro sonoro em tempo real com metering via microfone (`expo-audio`). | `React Native`, `Expo`, `JavaScript`, `Mobile Audio` |
+
+---
+
+### 💻 Stack Tecnológica & Competências
+
+#### **Back-end & Arquitetura**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+#### **Front-end & Mobile**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+#### **IA, Dados & Baixo Nível**
+![LangGraph](https://img.shields.io/badge/LangGraph-2E7D32?style=for-the-badge&logo=langchain&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thiagoeu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoeu&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="175" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=thiagoeu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
