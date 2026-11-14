@@ -11,10 +11,10 @@
 
 ### 🚀 Sobre Mim
 
-Olá! Sou **Engenhario da Computação** formado pelo no **IFPB**, com foco em engenharia de software moderna, arquiteturas escaláveis e sistemas baseados em inteligência artificial.
+Olá! Sou **Engenheiro da Computação** formado pelo **IFPB**, com foco em engenharia de software moderna, arquiteturas escaláveis e sistemas baseados em inteligência artificial.
 
 - 🏛️ **Atuação Profissional:** Desenvolvedor de Software no projeto **InovaAF**, uma parceria estratégica entre o **IFPB e o Ministério da Saúde**, atuando diretamente na modernização e digitalização da Assistência Farmacêutica do **SUS**.
-- 🛠️ **Foco Atual:** Arquitetura de microsserviços com **NestJS**, interfaces dinâmicas com **React / Next.js / TypeScript**, APIs concorrentes em **Go** e sistemas multi-agentes com **LangGraph & LLMs**.
+- 🛠️ **Foco Atual:** Arquitetura de microsserviços com **NestJS / Fastify**, interfaces dinâmicas com **React / Next.js / TypeScript**, mensageria assíncrona com **BullMQ / Redis**, APIs concorrentes em **Go** e sistemas multi-agentes com **LangGraph & LLMs**.
 - 🔬 **Diferencial de Engenharia:** Base sólida em baixo nível e hardware (ESP32, C/C++, Sistemas Embarcados e IoT), trazendo uma visão profunda de performance, concorrência e uso eficiente de recursos.
 
 ---
@@ -24,6 +24,7 @@ Olá! Sou **Engenhario da Computação** formado pelo no **IFPB**, com foco em e
 | Projeto | Descrição | Stack Principal |
 | :--- | :--- | :--- |
 | [**GitMatch (CV Nitro)**](https://github.com/thiagoeu/cv_nitro) | Otimizador inteligente de currículos com orquestração multi-agente (LangGraph), extração de portfólio GitHub, diagnóstico ATS determinístico e persistência em nuvem. | `Python`, `LangGraph`, `Gemini`, `Streamlit`, `Supabase` |
+| [**Mailer Service (Full Cycle)**](https://github.com/thiagoeu/mailer-fullcyle) | Microsserviço assíncrono corporativo para processamento e envio resiliente de e-mails em escala com filas distribuídas, idempotência, auditoria e métricas em tempo real. | `TypeScript`, `Fastify`, `BullMQ`, `Redis`, `TypeORM`, `PostgreSQL`, `Prometheus`, `Grafana` |
 | [**CommerceHub (MicroServicesSales)**](https://github.com/thiagoeu/MicroServicesSales) | Arquitetura corporativa de microsserviços escalável com monorepo Turborepo, pnpm workspaces, mensageria e conteinerização Docker. | `TypeScript`, `NestJS`, `Turborepo`, `Docker`, `pnpm` |
 | [**Node AI Lab**](https://github.com/thiagoeu/node-ai) | Laboratório prático de engenharia de LLMs e agentes autônomos por baixo dos panos com inferência local via Ollama em TypeScript. | `TypeScript`, `Node.js`, `LLM`, `Ollama`, `GenAI` |
 | [**RepoContext**](https://github.com/thiagoeu/repo-context) | Ferramenta de engenharia para desenvolvedores (DevTools) em Next.js para empacotamento e otimização de contexto de código para modelos de linguagem. | `Next.js`, `React 19`, `TypeScript`, `TailwindCSS` |
@@ -38,9 +39,11 @@ Olá! Sou **Engenhario da Computação** formado pelo no **IFPB**, com foco em e
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
