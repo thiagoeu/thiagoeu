@@ -66,10 +66,10 @@ Olá! Sou **Engenheiro da Computação** formado pelo **IFPB**, com foco em enge
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiagoeu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoeu&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="175" alt="Top Langs" />
+  <img src="https://github-stats-extended.vercel.app/api?username=thiagoeu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=thiagoeu&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="175" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=thiagoeu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=thiagoeu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
